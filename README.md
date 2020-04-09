@@ -1,6 +1,6 @@
-# quizzlerflutter
+# Quizzler
 
-A new Flutter application.
+A Flutter Application, developed during the learning of Flutter and Dart.
 
 ## Getting Started
 
